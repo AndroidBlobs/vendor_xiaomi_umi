@@ -1,0 +1,5 @@
+on property:ro.boot.hwlevel=P0.1
+    setprop persist.vendor.sys.fp.fod.location.X_Y 449,1825
+
+on property:ro.boot.hwlevel=P1
+    setprop persist.vendor.sys.fp.fod.location.X_Y 449,1825
